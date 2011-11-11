@@ -1,0 +1,3 @@
+These are a series of very similar files that are custom-made to each of my course's webpages. They will scrape the pages and obtain the relevant files for me. 
+
+Right now they need a bit of refactoring, most notably, I'm using a couple lists when I should be using a dictionary, and things like that. Ah, well...
